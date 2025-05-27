@@ -1,6 +1,6 @@
 # trabalho-de-flutter
 
-bank_app/
+#bank_app/
 ├── lib/
 │   ├── database/
 │   │   └── database_helper.dart
